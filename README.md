@@ -1,18 +1,10 @@
-# Demo Project (Python)
+# Demo Project
 
-## Description
-This is a learning project focused on improving my Python skills and building a clean development workflow.
+Proyecto de práctica y estudio.
+Entorno: Arch Linux + GNOME + GitHub.
 
-## Goals
-- Practice Python fundamentals
-- Follow good project structure
-- Use Git for version control
+## Objetivo
+Aprender y consolidar buenas prácticas de desarrollo, control de versiones y despliegue.
 
-## Technologies
-- Python 3
-- Linux (Arch Linux)
-
-## Project Structure
-src/        # source code
-README.md   # project documentation
-
+## Estado
+En desarrollo 🚧
